@@ -1,7 +1,7 @@
 # UIdesign  
 
  - Adobe XD를 활용한 UI 만들기
-## 디자인 도구
+## Design Tool
  - <img src="https://img.shields.io/badge/Adobe Xd-FF61F6?style=flat-square&logo=adobexd&logoColor=white"/>
 
 
